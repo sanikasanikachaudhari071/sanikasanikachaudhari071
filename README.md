@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanika Chaudhari
-- 👀 I’m interested in to be a data scientist, full stack developer
-- 🌱 I’m currently learning web development , MYSQL ,Python , Java
+- 👀 I’m interested in to be a data scientist.
+- 🌱 I’m currently learning  MYSQL ,Python 
 - 💞️ I’m looking to collaborate on website devlopment
 - 📫 How to reach me sanikachaudhari071@gmail.com or linkden-linkedin.com/in/sanika-chaudhari-b0954b264 
 - ⚡ Fun fact: I am a really good at drawing and crafts and love to read novels as well love to learn mew things.
